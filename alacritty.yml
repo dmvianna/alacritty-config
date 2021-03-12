@@ -1,3 +1,6 @@
+font:
+  size: 16
+
 # Colors (Solarized Dark)
 colors:
   # Default colors
